@@ -1,1 +1,7 @@
 new readme.txt
+check for commit without description
+<<<<<<< HEAD
+check for branch and master
+=======
+check for branch and master
+>>>>>>> dev
